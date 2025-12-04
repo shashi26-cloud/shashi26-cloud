@@ -1,6 +1,6 @@
 <!-- PROFILE HEADER -->
 <p align="center">
-  <img src="YOUR_IMAGE_RAW_URL" width="160" style="border-radius: 50%; border: 4px solid #007bff;" />
+  <img src="https://github.com/shashi26-cloud/shashi26-cloud/blob/main/gp.jpg?raw=true" width="160" style="border-radius: 50%; border: 4px solid #007bff;" />
 </p>
 
 <h1 align="center">Hi 👋, I'm <strong>Shashi Maruthi</strong></h1>
