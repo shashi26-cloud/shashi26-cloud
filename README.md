@@ -62,8 +62,12 @@ Full backend + database integration using MySQL & MongoDB.
 # 📈 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Shashi-Maruthi&show_icons=true&theme=blue" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Shashi-Maruthi&theme=blue" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shashi26-cloud&show_icons=true&theme=tokyonight&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashi26-cloud&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shashi26-cloud&theme=tokyonight" height="200"/>
 </p>
 
 ---
