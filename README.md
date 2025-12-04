@@ -53,23 +53,19 @@ Full web app with login system, MySQL backend & OTP verification.
 
 ## 📊 **GitHub Stats**
 
+## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shashi-maruthi&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shashi-maruthi&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shashi26-cloud&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shashi26-cloud&theme=tokyonight" height="160" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashi-maruthi&layout=compact&theme=tokyonight" height="160" />
-</p>
 
 ---
 
 ## 🔗 **Connect With Me**
 
 <p align="center">
-  <a href="https://linkedin.com/shashimaruthi-bhoosarapu-a2156131b" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
+ <a href="https://www.linkedin.com/in/shashimaruthi-bhoosarapu-a2156131b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:shashimaruthibhoosarapu@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
