@@ -51,7 +51,6 @@ Full web app with login system, MySQL backend & OTP verification.
 
 ---
 
----
 
 ## 🔗 **Connect With Me**
 
