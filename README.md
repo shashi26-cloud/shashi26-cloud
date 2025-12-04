@@ -1,7 +1,5 @@
 <!-- PROFILE HEADER -->
-<p align="center">
-  <img src="https://github.com/shashi26-cloud/shashi26-cloud/blob/main/gp.jpg?raw=true" width="160" style="border-radius: 50%; border: 4px solid #007bff;" />
-</p>
+
 
 <h1 align="center">Hi 👋, I'm <strong>Shashi Maruthi</strong></h1>
 <h3 align="center">AI • Python • Web Developer</h3>
@@ -29,7 +27,7 @@
 ## 🚀 Featured Projects
 - **Emotion-Aware Study Assistant** — Face & voice emotion detection → personalized study tips.  
 - **FixHub** — Technician booking system: login, OTP, MySQL backend.  
-- **Smart Dashboard** — Real-time dashboards for hackathons.
+
 
 ---
 
