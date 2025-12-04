@@ -1,6 +1,6 @@
 <!-- PROFILE HEADER -->
 <p align="center">
-  <img src="[search-ms:displayname=Search%20Results%20in%20Home&crumb=System.Generic.String%3Agp&crumb=location:%3A%3A{F874310E-B6B7-47DC-BC84-B9E6B38F5903}](https://github.com/shashi26-cloud/shashi26-cloud/blob/main/gp.jpg)" width="160" style="border-radius: 50%; border: 4px solid #007bff;" />
+  <img src="https://github.com/shashi26-cloud/shashi26-cloud/blob/main/gp.jpg?raw=true" width="160" style="border-radius: 50%; border: 4px solid #007bff;" />
 </p>
 
 <h1 align="center">👋 Hi, I'm <strong>Shashi Maruthi</strong></h1>
