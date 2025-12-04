@@ -1,106 +1,99 @@
-<!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00BFFF&height=220&section=header&text=Shashi%20Maruthi&fontSize=45&fontColor=ffffff" width="100%"/>
+<!-- Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00BFFF&height=200&section=header&text=Shashi%20Maruthi&fontSize=45&fontColor=ffffff" />
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Python+Developer;Web+Developer;AI+%26+ML+Enthusiast;3rd+Year+B.Tech+Student;Always+Learning+New+Things!"/>
-</h2>
+<h3 align="center">🚀 Python Developer | Web Developer | AI/ML Enthusiast | B.Tech CSE</h3>
 
 ---
 
-## 🧑‍💻 About Me  
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="330px" />
-</p>
+## 👋 About Me
 
-### Hi! I'm **Shashi Maruthi**
-🔥 Passionate Developer building AI + Web projects  
-📚 B.Tech CSE (3rd Year)  
-🤖 AI/ML | Python | Web Development  
-🌐 Full-stack developer in progress  
-🎯 Goal: Build AI-powered real-world applications  
+🌟 Passionate about building AI-powered applications, automation tools, and beautiful front-end interfaces.  
+🎓 3rd Year B.Tech CSE Student  
+🧠 Into Artificial Intelligence, Machine Learning, Web Development, and Ethical Hacking  
+💼 Hands-on projects in Python, AI, Web Apps, and Real-world Systems  
+🎯 Goal: Become a Full Stack + AI Developer  
 
 ---
 
-## 🛠️ Tech Stack
+## 🔥 My Skills & Technologies
 
-### **🚀 Languages**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,js,c" height="50" />
+### **💻 Programming**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,c" />
 </p>
 
-### **🎨 Web Development**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" height="50" />
+### **🌐 Web Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" />
 </p>
 
-### **🤖 AI / ML Tools**
+### **🤖 AI / ML**
 - OpenCV  
 - MediaPipe  
-- ML Models  
 - Face Emotion Detection  
 - Voice Tone Analysis  
+- Basic ML Models  
 
 ### **🗄 Databases**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" height="50" />
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-### **⚙ Tools & IDE**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="50" />
+### **⚙ Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
 
-## 🌟 Featured Projects
+## 🚀 Featured Projects
 
 ### 🔹 **Emotion-Aware Study Assistant**
-AI tool that detects face & voice emotion and gives study suggestions.  
+AI system that reads your face & voice to give study-related suggestions.  
+Tech: Python, OpenCV, MediaPipe, ML  
 
 ### 🔹 **FixHub – Technician Booking System**
-Login system, MySQL storage, OTP verification & backend integration.  
+Full web application with authentication, SMS verification & backend storing.  
+Tech: HTML, CSS, JS, Python, MySQL  
 
-### 🔹 **Portfolio Website**
-Dark theme + animations + mobile responsive.  
+### 🔹 **Smart Dashboard (Hackathon)**
+Dynamic dashboard with public APIs — animated & interactive.  
 
-### 🔹 **Smart Dashboard**
-Hackathon project that fetches live data using public APIs.
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shashi26-cloud&show_icons=true&theme=tokyonight&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashi26-cloud&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shashi26-cloud&theme=tokyonight" height="200"/>
-</p>
+### 🔹 **Personal Portfolio Website**
+Dark theme, scroll animations, and attractive UI.  
 
 ---
 
-## 🏆 Achievements
+## 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shashi26-cloud&theme=tokyonight&margin-w=10" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shashi26-cloud&show_icons=true&theme=tokyonight" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashi26-cloud&layout=compact&theme=tokyonight" height="160px" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shashi26-cloud&theme=tokyonight" />
 </p>
 
 ---
 
-## 🌐 Connect With Me  
+## 🏆 Achievements & Badges
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shashi26-cloud&theme=tokyonight&margin-w=15" />
+</p>
+
+---
+
+## 🌍 Connect With Me
+
 <p>
-  <a href="mailto:shashimaruthi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  <a href="mailto:shashimaruthi@gmail.com"><img src="https://img.shields.io/badge/Email-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0066C8?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
 
 <!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:6A5ACD&height=150&section=footer" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:6A5ACD&height=120&section=footer" />
