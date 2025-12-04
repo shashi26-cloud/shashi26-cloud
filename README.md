@@ -1,6 +1,6 @@
 <!-- PROFILE HEADER -->
 <p align="center">
-  <img src="YOUR_IMAGE_URL_HERE" width="160" style="border-radius: 50%; border: 4px solid #007bff;" />
+  <img src="search-ms:displayname=Search%20Results%20in%20Home&crumb=System.Generic.String%3Agp&crumb=location:%3A%3A{F874310E-B6B7-47DC-BC84-B9E6B38F5903}" width="160" style="border-radius: 50%; border: 4px solid #007bff;" />
 </p>
 
 <h1 align="center">👋 Hi, I'm <strong>Shashi Maruthi</strong></h1>
@@ -50,14 +50,12 @@
 ### 🔹 **Emotion-Aware Study Assistant**
 AI web app that detects face emotion + voice tone and gives personalized motivation.
 
-### 🔹 **Fake News Detector Using AI**
-ML-powered classifier to detect fake articles.
+
 
 ### 🔹 **FixHub – Technician Booking System**
 Full backend + database integration using MySQL & MongoDB.
 
-### 🔹 **Gesture + Voice PC Controller**
-Python + Computer Vision based automation controller.
+
 
 ---
 
@@ -77,11 +75,11 @@ Python + Computer Vision based automation controller.
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
 
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:shashimaruthibhoosarapugmail.com">
     <img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail" />
   </a>
 
-  <a href="https://github.com/Shashi-Maruthi">
+  <a href="https://github.com/Shashi26-cloud">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   </a>
 </p>
