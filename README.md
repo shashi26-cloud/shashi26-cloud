@@ -1,94 +1,91 @@
 <!-- PROFILE HEADER -->
 <p align="center">
-  <img src="https://github.com/shashi26-cloud/shashi26-cloud/blob/main/gp.jpg?raw=true" width="160" style="border-radius: 50%; border: 4px solid #007bff;" />
+  <img src="YOUR_IMAGE_URL" width="170" style="border-radius: 50%; border: 4px solid #007bff;" />
 </p>
 
-<h1 align="center">👋 Hi, I'm <strong>Shashi Maruthi</strong></h1>
+<h1 align="center">Hi 👋, I'm <strong>Shashi Maruthi</strong></h1>
+<h3 align="center">AI | Python | Web Developer</h3>
 
 <p align="center">
-  <strong>Python Developer</strong> • 
-  <strong>Web Developer</strong> • 
-  <strong>AI/ML Enthusiast</strong>  
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/B.Tech-CSE_3rd_Year-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/India-🇮🇳-green?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=shashi-maruthi&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
-# 🚀 About Me
-
-- 👨‍💻 Passionate **Developer** building **AI + Web apps**
-- 🎓 **B.Tech CSE (3rd Year)**
-- 🤖 Learning **AI/ML**, **Deep Learning**, **Computer Vision**
-- 🌐 Building projects with **Python + JavaScript + React**
-- 🧩 Exploring full-stack development
-- 🎯 **Goal:** Build AI-powered real-world applications
+## 🌟 **About Me**
+- 🔭 I’m a **3rd-year B.Tech CSE student**
+- 🤖 Passionate about **AI, Machine Learning, and Web Development**
+- 🧠 Building real-world projects combining **AI + Python + Web**
+- 🚀 Currently learning **Deep Learning, OpenCV, and React**
+- 🎯 Goal: Become a **Full Stack + AI Engineer**
+- 💬 Ask me about **Python, JavaScript, MongoDB, MySQL, AI/ML**
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠 **Tech Stack**
 
 ### **Languages**
-`Python` • `JavaScript` • `C` • `HTML` • `CSS`
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,c,html,css" />
+</p>
 
-### **Frameworks / Libraries**
-`React` • `Node.js` • `Express` • `OpenCV` • `MediaPipe`
+### **Frameworks / Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,opencv,git,github,vscode" />
+</p>
 
 ### **Databases**
-`MySQL` • `MongoDB`
-
-### **Tools**
-`Git` • `GitHub` • `VS Code` • `Postman` • `Figma`
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
 
 ---
 
-# 📌 Projects
+## 🚀 **Featured Projects**
 
 ### 🔹 **Emotion-Aware Study Assistant**
-AI web app that detects face emotion + voice tone and gives personalized motivation.
+AI app that detects face emotion + voice tone and gives smart study suggestions.
 
+### 🔹 **Fake News Detector Using AI**
+ML model trained on real dataset to classify fake vs real news.
 
+### 🔹 **Gesture & Voice PC Controller**
+Control PC with hand gestures + voice commands using Python + CV.
 
-### 🔹 **FixHub – Technician Booking System**
-Full backend + database integration using MySQL & MongoDB.
-
-
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shashi26-cloud&show_icons=true&theme=tokyonight&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashi26-cloud&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shashi26-cloud&theme=tokyonight" height="200"/>
-</p>
+### 🔹 **FixHub – Technician Booking Platform**
+Full web app with login system, MySQL backend & OTP verification.
 
 ---
 
-# 🌐 Connect with Me
+## 📊 **GitHub Stats**
 
 <p align="center">
-  <a href="https://www.linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=shashi-maruthi&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shashi-maruthi&theme=tokyonight" height="160" />
+</p>
 
-  <a href="mailto:shashimaruthibhoosarapugmail.com">
-    <img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail" />
-  </a>
-
-  <a href="https://github.com/Shashi26-cloud">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
-  </a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashi-maruthi&layout=compact&theme=tokyonight" height="160" />
 </p>
 
 ---
 
-<p align="center">⭐ If you like my work, consider giving a star!</p>
+## 🔗 **Connect With Me**
+
+<p align="center">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:shashimaruthibhoosarapu@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://github.com/shashi26-cloud" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+---
+
+<p align="center">⭐ If you like my projects, consider giving a star!</p>
+
 
